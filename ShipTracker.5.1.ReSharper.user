@@ -1,0 +1,115 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:EventAggregator.cs" caret="438" fromTop="22" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:Program.cs" caret="0" fromTop="0" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:Port.cs" caret="272" fromTop="13" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:DomainEvent.cs" caret="334" fromTop="13" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:ArrivalEvent.cs" caret="706" fromTop="32" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:Ship.cs" caret="271" fromTop="11" />
+      <File id="A0162DCB-92DA-4E6D-9335-7A0AB2AFB79B/f:WhenUsingShip.cs" caret="839" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A0162DCB-92DA-4E6D-9335-7A0AB2AFB79B/f:WhenUsingShip.cs" caret="477" fromTop="16" />
+      <File id="A0162DCB-92DA-4E6D-9335-7A0AB2AFB79B/f:WhenUsingShip.cs" caret="873" fromTop="33" />
+      <File id="A0162DCB-92DA-4E6D-9335-7A0AB2AFB79B/f:WhenUsingShip.cs" caret="68" fromTop="1" />
+      <File id="A0162DCB-92DA-4E6D-9335-7A0AB2AFB79B/f:WhenUsingShip.cs" caret="873" fromTop="16" />
+      <File id="A0162DCB-92DA-4E6D-9335-7A0AB2AFB79B/f:WhenUsingShip.cs" caret="584" fromTop="15" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:EventAggregator.cs" caret="188" fromTop="8" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:EventAggregator.cs" caret="386" fromTop="17" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:EventAggregator.cs" caret="438" fromTop="22" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:Port.cs" caret="365" fromTop="17" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:DomainEvent.cs" caret="334" fromTop="13" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:ArrivalEvent.cs" caret="587" fromTop="14" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:ArrivalEvent.cs" caret="143" fromTop="6" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:Ship.cs" caret="450" fromTop="18" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:ArrivalEvent.cs" caret="437" fromTop="21" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:ArrivalEvent.cs" caret="706" fromTop="32" />
+      <File id="877DA4AC-1C95-4874-B5CD-4FA5E60089C3/f:Ship.cs" caret="271" fromTop="11" />
+      <File id="A0162DCB-92DA-4E6D-9335-7A0AB2AFB79B/f:WhenUsingShip.cs" caret="535" fromTop="19" />
+      <File id="A0162DCB-92DA-4E6D-9335-7A0AB2AFB79B/f:WhenUsingShip.cs" caret="839" fromTop="28" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="4" />
+      <Item value="void" priority="4" />
+      <Item value="TestInitialize" priority="0" />
+      <Item value="ShipTracker" priority="0" />
+      <Item value="colomboExpress" priority="2" />
+      <Item value="new" priority="5" />
+      <Item value="Ship" priority="0" />
+      <Item value="public" priority="15" />
+      <Item value="Ship`0" priority="5" />
+      <Item value="UriHostNameType`0" priority="0" />
+      <Item value="string" priority="3" />
+      <Item value="Name" priority="1" />
+      <Item value="name" priority="1" />
+      <Item value="aggregator" priority="1" />
+      <Item value="EventAggregator" priority="0" />
+      <Item value="LinkedList" priority="0" />
+      <Item value="EventAggregator`0" priority="1" />
+      <Item value="_log" priority="1" />
+      <Item value="List&lt;DomainEvent&gt;" priority="0" />
+      <Item value="DomainEvent`0" priority="3" />
+      <Item value="abstract" priority="1" />
+      <Item value="@event" priority="0" />
+      <Item value="evt" priority="2" />
+      <Item value="Port`0" priority="8" />
+      <Item value="static" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="Port" priority="1" />
+      <Item value="sanFrancisco" priority="3" />
+      <Item value="null" priority="0" />
+      <Item value="DateTime`0" priority="3" />
+      <Item value="_occurred" priority="0" />
+      <Item value="occured" priority="1" />
+      <Item value="_recorded" priority="0" />
+      <Item value="ArrivalEvent`0" priority="2" />
+      <Item value="base" priority="0" />
+      <Item value="ship" priority="0" />
+      <Item value="port" priority="1" />
+      <Item value="_port" priority="3" />
+      <Item value="_ship" priority="1" />
+      <Item value="this" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ShipTracker.DomainEvent">
+      <Item value="Process`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShipTracker.Port">
+      <Item value="At_Sea" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ShipTracker.ArrivalEvent">
+      <Item value="Ship" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ShipTracker.Ship">
+      <Item value="HandleArrival`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ShipTracker.EventAggregator">
+      <Item value="Process`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
